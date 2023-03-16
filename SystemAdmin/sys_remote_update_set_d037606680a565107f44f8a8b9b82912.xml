@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-03-15 22:55:36">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<application_name>Company Hosted Events</application_name>
+<application_scope>x_snc_company_host</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default-Company Hosted events</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>5cc2a46280a565107f44f8a8b9b829c4</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>d037606680a565107f44f8a8b9b82912</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_snc_company_host_company_hosted_events_event_name_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="event_name" label="Event Name" language="en" table="x_snc_company_host_company_hosted_events"><sys_documentation action="INSERT_OR_UPDATE"><element>event_name</element><help/><hint/><label>Event Name</label><language>en</language><name>x_snc_company_host_company_hosted_events</name><plural>Event Names</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:40:59</sys_created_on><sys_id>4ad364a280a565107f44f8a8b9b829cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Event Name</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_documentation_x_snc_company_host_company_hosted_events_event_name_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:40:59</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>2007794409</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>1037606680a565107f44f8a8b9b82915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0b2c0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Company Hosted Events.Event Name</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>96d364a280a565105f5c8aad2c9a87e3</update_guid>
+<update_guid_history>96d364a280a565105f5c8aad2c9a87e3:2007794409</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_snc_company_host_company_hosted_events_event_name</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="event_name" table="x_snc_company_host_company_hosted_events"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Event Name</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>event_name</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_snc_company_host_company_hosted_events</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:40:59</sys_created_on><sys_id>0ad364a280a565107f44f8a8b9b829ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Event Name</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_dictionary_x_snc_company_host_company_hosted_events_event_name</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:40:59</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1600743889</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>1437606680a565107f44f8a8b9b82914</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0aee0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Company Hosted Events.Event Name</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>52d364a29da56510a20f4ac0c52436df</update_guid>
+<update_guid_history>52d364a29da56510a20f4ac0c52436df:-1600743889</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_2f2468a280a565107f44f8a8b9b829dd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Company Hosted Events">a324a06280a565107f44f8a8b9b829f8</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>SEPARATOR</link_type><map_page/><mobile_title>Company Hosted Events</mobile_title><mobile_view_name>Mobile</mobile_view_name><name/><order>1</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:42:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2f2468a280a565107f44f8a8b9b829dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Company Hosted Events</sys_name><sys_overrides/><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_app_module_2f2468a280a565107f44f8a8b9b829dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:42:27</sys_updated_on><timeline_page/><title>Company Hosted Events</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>184152433</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>1837606680a565107f44f8a8b9b82913</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e77061c00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table/>
+<target_name>Company Hosted Events</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>e32468a2c6a56510dadf775fc23e29e0</update_guid>
+<update_guid_history>e32468a2c6a56510dadf775fc23e29e0:184152433</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_ead3a4a280a565107f44f8a8b9b82901</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:41:00</sys_created_on><sys_id>ead3a4a280a565107f44f8a8b9b82901</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events.x_snc_company_host.user</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_security_acl display_value="x_snc_company_host_company_hosted_events">62d364a280a565107f44f8a8b9b829ff</sys_security_acl><sys_update_name>sys_security_acl_role_ead3a4a280a565107f44f8a8b9b82901</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:41:00</sys_updated_on><sys_user_role display_value="x_snc_company_host.user" name="x_snc_company_host.user">58f2e4ae806565107f44f8a8b9b8295e</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>854167748</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>1837606680a565107f44f8a8b9b82916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0f3b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>x_snc_company_host_company_hosted_events.x_snc_company_host.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>6ed3a4a26aa56510d46f5688e94f6f03</update_guid>
+<update_guid_history>6ed3a4a26aa56510d46f5688e94f6f03:854167748</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_eed3e8ee806565107f44f8a8b9b82935</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_company_host_company_hosted_events</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:41:00</sys_created_on><sys_id>eed3e8ee806565107f44f8a8b9b82935</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_security_acl_eed3e8ee806565107f44f8a8b9b82935</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:41:00</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1066129013</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>1c37606680a565107f44f8a8b9b82915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0eb90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>x_snc_company_host_company_hosted_events</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>6ad364a216a5651072b2c50b256c2afa</update_guid>
+<update_guid_history>6ad364a216a5651072b2c50b256c2afa:1066129013</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_snc_company_host_company_hosted_events_description</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="description" table="x_snc_company_host_company_hosted_events"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Description</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>description</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>100</max_length><name>x_snc_company_host_company_hosted_events</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:40:59</sys_created_on><sys_id>c2d364a280a565107f44f8a8b9b82988</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Description</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_dictionary_x_snc_company_host_company_hosted_events_description</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:40:59</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-247388840</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>5037606680a565107f44f8a8b9b82914</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0ac20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Company Hosted Events.Description</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>96d364a296a56510568a2bd4128986dd</update_guid>
+<update_guid_history>96d364a296a56510568a2bd4128986dd:-247388840</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_232468a280a565107f44f8a8b9b829e3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Company Hosted Events">a324a06280a565107f44f8a8b9b829f8</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>All</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_company_host_company_hosted_events</name><order>3</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:42:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>232468a280a565107f44f8a8b9b829e3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_app_module_232468a280a565107f44f8a8b9b829e3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:42:27</sys_updated_on><timeline_page/><title>All</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>566966059</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>5437606680a565107f44f8a8b9b82913</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e77061f80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>All</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>e32468a289a56510f3ee9beb1fb504e4</update_guid>
+<update_guid_history>e32468a289a56510f3ee9beb1fb504e4:566966059</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_6ed3a4a280a565107f44f8a8b9b8290c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:41:00</sys_created_on><sys_id>6ed3a4a280a565107f44f8a8b9b8290c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events.x_snc_company_host.user</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_security_acl display_value="x_snc_company_host_company_hosted_events">e2d3a4a280a565107f44f8a8b9b8290a</sys_security_acl><sys_update_name>sys_security_acl_role_6ed3a4a280a565107f44f8a8b9b8290c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:41:00</sys_updated_on><sys_user_role display_value="x_snc_company_host.user" name="x_snc_company_host.user">58f2e4ae806565107f44f8a8b9b8295e</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>1023152475</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>5437606680a565107f44f8a8b9b82916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0fc20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>x_snc_company_host_company_hosted_events.x_snc_company_host.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>eed3a4a26ba56510fb623a423e73640e</update_guid>
+<update_guid_history>eed3a4a26ba56510fb623a423e73640e:1023152475</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e2d3a4a280a565107f44f8a8b9b8290a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_company_host_company_hosted_events</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:41:00</sys_created_on><sys_id>e2d3a4a280a565107f44f8a8b9b8290a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_security_acl_e2d3a4a280a565107f44f8a8b9b8290a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:41:00</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-976064685</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>5837606680a565107f44f8a8b9b82915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0fa20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>x_snc_company_host_company_hosted_events</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>a2d3a4a28ca565102f3a09c915bead0c</update_guid>
+<update_guid_history>a2d3a4a28ca565102f3a09c915bead0c:-976064685</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_snc_company_host_company_hosted_events_description_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="description" label="Description" language="en" table="x_snc_company_host_company_hosted_events"><sys_documentation action="INSERT_OR_UPDATE"><element>description</element><help/><hint/><label>Description</label><language>en</language><name>x_snc_company_host_company_hosted_events</name><plural>Descriptions</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:40:59</sys_created_on><sys_id>c2d364a280a565107f44f8a8b9b829c8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Description</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_documentation_x_snc_company_host_company_hosted_events_description_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:40:59</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-327552067</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>5c37606680a565107f44f8a8b9b82914</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0b200000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Company Hosted Events.Description</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>12d364a2fda56510a90eabf6f207c1e2</update_guid>
+<update_guid_history>12d364a2fda56510a90eabf6f207c1e2:-327552067</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_232468a280a565107f44f8a8b9b829e1</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Company Hosted Events">a324a06280a565107f44f8a8b9b829f8</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_snc_company_host_company_hosted_events</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:42:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>232468a280a565107f44f8a8b9b829e1</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_app_module_232468a280a565107f44f8a8b9b829e1</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:42:27</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>-188660405</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>9037606680a565107f44f8a8b9b82913</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e77061e00000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Create New</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>272468a206a565108cf925707e6467e2</update_guid>
+<update_guid_history>272468a206a565108cf925707e6467e2:-188660405</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_66d364a280a565107f44f8a8b9b829fb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:41:00</sys_created_on><sys_id>66d364a280a565107f44f8a8b9b829fb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events.x_snc_company_host.user</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_security_acl display_value="x_snc_company_host_company_hosted_events">eed3e8ee806565107f44f8a8b9b82935</sys_security_acl><sys_update_name>sys_security_acl_role_66d364a280a565107f44f8a8b9b829fb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:41:00</sys_updated_on><sys_user_role display_value="x_snc_company_host.user" name="x_snc_company_host.user">58f2e4ae806565107f44f8a8b9b8295e</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-940628359</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>9037606680a565107f44f8a8b9b82916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0ef40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>x_snc_company_host_company_hosted_events.x_snc_company_host.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>e2d364a284a56510a374725930e586fe</update_guid>
+<update_guid_history>e2d364a284a56510a374725930e586fe:-940628359</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_aad3a4a280a565107f44f8a8b9b82904</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_company_host_company_hosted_events</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:41:00</sys_created_on><sys_id>aad3a4a280a565107f44f8a8b9b82904</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_security_acl_aad3a4a280a565107f44f8a8b9b82904</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:41:00</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1128207141</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>9437606680a565107f44f8a8b9b82915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0f5d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>x_snc_company_host_company_hosted_events</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>6ad3a4a2dfa56510d7a922689dd0ed06</update_guid>
+<update_guid_history>6ad3a4a2dfa56510d7a922689dd0ed06:1128207141</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_snc_company_host_company_hosted_events_date_time_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="date_time" label="Date Time" language="en" table="x_snc_company_host_company_hosted_events"><sys_documentation action="INSERT_OR_UPDATE"><element>date_time</element><help/><hint/><label>Date Time</label><language>en</language><name>x_snc_company_host_company_hosted_events</name><plural>Date Times</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:40:59</sys_created_on><sys_id>ced364a280a565107f44f8a8b9b829d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Date Time</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_documentation_x_snc_company_host_company_hosted_events_date_time_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:40:59</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>1957221799</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>9837606680a565107f44f8a8b9b82914</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0b0d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Company Hosted Events.Date Time</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>1ad364a2e2a5651093b50139a3e520e0</update_guid>
+<update_guid_history>1ad364a2e2a5651093b50139a3e520e0:1957221799</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_snc_company_host_company_hosted_events_date_time</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="date_time" table="x_snc_company_host_company_hosted_events"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Date Time</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>date_time</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date_time</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_snc_company_host_company_hosted_events</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:40:59</sys_created_on><sys_id>8ed364a280a565107f44f8a8b9b829ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Date Time</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_dictionary_x_snc_company_host_company_hosted_events_date_time</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:40:59</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-1980635213</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>9c37606680a565107f44f8a8b9b82913</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0aa30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Company Hosted Events.Date Time</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>5ad364a2c8a56510a0bbb3c109c05bdb</update_guid>
+<update_guid_history>5ad364a2c8a56510a0bbb3c109c05bdb:-1980635213</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_62d364a280a565107f44f8a8b9b829ff</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_company_host_company_hosted_events</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:41:00</sys_created_on><sys_id>62d364a280a565107f44f8a8b9b829ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_security_acl_62d364a280a565107f44f8a8b9b829ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:41:00</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1926720681</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>d037606680a565107f44f8a8b9b82915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0f190000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>x_snc_company_host_company_hosted_events</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>22d3a4a25ca56510adbae7d160c6d701</update_guid>
+<update_guid_history>22d3a4a25ca56510adbae7d160c6d701:1926720681</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_14c2206280a565107f44f8a8b9b829fa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>true</can_edit_in_studio><enforce_license>none</enforce_license><guided_setup_guid/><hide_on_ui>false</hide_on_ui><installed_as_dependency>false</installed_as_dependency><js_level>helsinki_es5</js_level><licensable>true</licensable><license/><license_category>none</license_category><license_definition/><license_model>none</license_model><logo/><menu/><name>Company Hosted Events</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_snc_company_host</scope><scoped_administration>false</scoped_administration><short_description/><source>x_snc_company_host</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:36:13</sys_created_on><sys_id>14c2206280a565107f44f8a8b9b829fa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:36:13</sys_updated_on><template/><trackable>true</trackable><uninstall_blocked>false</uninstall_blocked><user_role/><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>1745066843</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>d437606680a565107f44f8a8b9b82912</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76aacd50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table/>
+<target_name>Company Hosted Events</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>5cc2a46273a56510764e70cf5cc1e6c6</update_guid>
+<update_guid_history>5cc2a46273a56510764e70cf5cc1e6c6:1745066843</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_snc_company_host_company_hosted_events_null</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_snc_company_host_company_hosted_events"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes/><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label/><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element/><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="Collection">collection</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_snc_company_host_company_hosted_events</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:40:58</sys_created_on><sys_id>4ad364a280a565107f44f8a8b9b82963</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_dictionary_x_snc_company_host_company_hosted_events_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:40:58</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>393222467</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>d437606680a565107f44f8a8b9b82914</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f08e50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Company Hosted Events</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>4ad364a21ca565105fe4900b3639ae85</update_guid>
+<update_guid_history>4ad364a21ca565105fe4900b3639ae85:393222467</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_f5d324a280a565107f44f8a8b9b829d8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Company Hosted Events</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_company_host_company_hosted_events</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:40:58</sys_created_on><sys_id>f5d324a280a565107f44f8a8b9b829d8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Company Host Company Hosted Events</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_db_object_f5d324a280a565107f44f8a8b9b829d8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:40:58</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>843583498</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>d837606680a565107f44f8a8b9b82913</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f08fd0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>Company Hosted Events</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>8ed364a29aa565103320cbd52a5afb86</update_guid>
+<update_guid_history>8ed364a29aa565103320cbd52a5afb86:843583498</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_58f2e4ae806565107f44f8a8b9b8295e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_snc_company_host.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>x_snc_company_host.user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:37:02</sys_created_on><sys_id>58f2e4ae806565107f44f8a8b9b8295e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host.user</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_user_role_58f2e4ae806565107f44f8a8b9b8295e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:37:02</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>2003337428</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>d837606680a565107f44f8a8b9b82916</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76b6c6a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table/>
+<target_name>x_snc_company_host.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>d8f2e4ae57656510f81464780a0be463</update_guid>
+<update_guid_history>d8f2e4ae57656510f81464780a0be463:2003337428</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_a324a06280a565107f44f8a8b9b829f8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="">Custom Applications</category><description>Company Hosted Events</description><device_type>browser</device_type><hint>Company Hosted Events</hint><name/><order/><roles>x_snc_company_host.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:42:27</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a324a06280a565107f44f8a8b9b829f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Company Hosted Events</sys_name><sys_overrides/><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_update_name>sys_app_application_a324a06280a565107f44f8a8b9b829f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:42:27</sys_updated_on><title>Company Hosted Events</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>727761145</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>dc37606680a565107f44f8a8b9b82912</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e77061770000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table/>
+<target_name>Company Hosted Events</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>af2468a259a565107149419a9c782bdc</update_guid>
+<update_guid_history>af2468a259a565107149419a9c782bdc:727761145</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_26d3a4a280a565107f44f8a8b9b82907</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-15 22:41:00</sys_created_on><sys_id>26d3a4a280a565107f44f8a8b9b82907</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_company_host_company_hosted_events.x_snc_company_host.user</sys_name><sys_package display_value="Company Hosted Events" source="x_snc_company_host">14c2206280a565107f44f8a8b9b829fa</sys_package><sys_policy/><sys_scope display_value="Company Hosted Events">14c2206280a565107f44f8a8b9b829fa</sys_scope><sys_security_acl display_value="x_snc_company_host_company_hosted_events">aad3a4a280a565107f44f8a8b9b82904</sys_security_acl><sys_update_name>sys_security_acl_role_26d3a4a280a565107f44f8a8b9b82907</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-15 22:41:00</sys_updated_on><sys_user_role display_value="x_snc_company_host.user" name="x_snc_company_host.user">58f2e4ae806565107f44f8a8b9b8295e</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>597295137</payload_hash>
+<remote_update_set display_value="Default-Company Hosted events">d037606680a565107f44f8a8b9b82912</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-15 22:55:36</sys_created_on>
+<sys_id>dc37606680a565107f44f8a8b9b82915</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186e76f0f800000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-15 22:55:36</sys_updated_on>
+<table>x_snc_company_host_company_hosted_events</table>
+<target_name>x_snc_company_host_company_hosted_events.x_snc_company_host.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>a6d3a4a211a5651097391cc979acea09</update_guid>
+<update_guid_history>a6d3a4a211a5651097391cc979acea09:597295137</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
