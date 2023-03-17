@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-03-17 12:51:45">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Report with a Report Source.</description>
+<inserted/>
+<name>Lab 2.2 Report Source idBT</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>f73d6043cceda5107f446723b89ae5bf</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-17 12:51:44</sys_created_on>
+<sys_id>da2078c3cceda5107f446723b89ae57e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-17 12:51:44</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_users_groups_9b9e6c43cceda5107f446723b89ae598</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">db9e6c43cceda5107f446723b89ae596</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:44:59</sys_created_on><sys_id>9b9e6c43cceda5107f446723b89ae598</sys_id><sys_mod_count>0</sys_mod_count><sys_name>db9e6c43cceda5107f446723b89ae596</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_users_groups_9b9e6c43cceda5107f446723b89ae598</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:44:59</sys_updated_on><user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id></sys_report_users_groups></record_update>]]></payload>
+<payload_hash>-957425641</payload_hash>
+<remote_update_set display_value="Lab 2.2 Report Source idBT">da2078c3cceda5107f446723b89ae57e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-17 12:51:44</sys_created_on>
+<sys_id>122078c3cceda5107f446723b89ae580</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186ef9a1c2f0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-17 12:51:44</sys_updated_on>
+<table/>
+<target_name>db9e6c43cceda5107f446723b89ae596</target_name>
+<type>Report Users and Groups</type>
+<update_domain>global</update_domain>
+<update_guid>d79e6c438feda510c4df452c2b636e9a</update_guid>
+<update_guid_history>d79e6c438feda510c4df452c2b636e9a:-957425641</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_users_groups_89cf64c3cceda5107f446723b89ae589</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups"><sys_report_users_groups action="INSERT_OR_UPDATE"><group_id/><report_id display_value="">c5cf6c43cceda5107f446723b89ae5ac</report_id><sys_class_name>sys_report_users_groups</sys_class_name><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>89cf64c3cceda5107f446723b89ae589</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c5cf6c43cceda5107f446723b89ae5ac</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_users_groups_89cf64c3cceda5107f446723b89ae589</sys_update_name><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on><user_id display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</user_id></sys_report_users_groups></record_update>]]></payload>
+<payload_hash>1548234623</payload_hash>
+<remote_update_set display_value="Lab 2.2 Report Source idBT">da2078c3cceda5107f446723b89ae57e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-17 12:51:44</sys_created_on>
+<sys_id>5e2078c3cceda5107f446723b89ae57f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186ef9eb95d0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-17 12:51:44</sys_updated_on>
+<table/>
+<target_name>c5cf6c43cceda5107f446723b89ae5ac</target_name>
+<type>Report Users and Groups</type>
+<update_domain>global</update_domain>
+<update_guid>09cf64c35aeda5106cea63a461b7be8b</update_guid>
+<update_guid_history>09cf64c35aeda5106cea63a461b7be8b:1548234623</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_u_appr_chg_RPTdb9e6c43cceda5107f446723b89ae596</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_appr_chg" version="2" view="RPTdb9e6c43cceda5107f446723b89ae596"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_approver</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="d39e2483cceda5107f446723b89ae55a">9b9e2483cceda5107f446723b89ae55b</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:45:00</sys_created_on><sys_id>139e2483cceda5107f446723b89ae55d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:45:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>chg_approval</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="d39e2483cceda5107f446723b89ae55a">9b9e2483cceda5107f446723b89ae55b</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:45:00</sys_created_on><sys_id>1b9e2483cceda5107f446723b89ae55d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:45:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>chg_number</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="d39e2483cceda5107f446723b89ae55a">9b9e2483cceda5107f446723b89ae55b</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:45:00</sys_created_on><sys_id>9b9e2483cceda5107f446723b89ae55d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:45:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>chg_short_description</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="d39e2483cceda5107f446723b89ae55a">9b9e2483cceda5107f446723b89ae55b</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:45:00</sys_created_on><sys_id>1f9e2483cceda5107f446723b89ae55d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:45:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>chg_risk</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="d39e2483cceda5107f446723b89ae55a">9b9e2483cceda5107f446723b89ae55b</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:45:00</sys_created_on><sys_id>9f9e2483cceda5107f446723b89ae55d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:45:00</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>chg_start_date</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="d39e2483cceda5107f446723b89ae55a">9b9e2483cceda5107f446723b89ae55b</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:45:00</sys_created_on><sys_id>139e2483cceda5107f446723b89ae55e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:45:00</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_appr_chg</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:44:59</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9b9e2483cceda5107f446723b89ae55b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_appr_chg</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_u_appr_chg_RPTdb9e6c43cceda5107f446723b89ae596</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:44:59</sys_updated_on><sys_user/><view display_value="Rptdb9e6c43cceda5107f446723b89ae596" name="RPTdb9e6c43cceda5107f446723b89ae596">d39e2483cceda5107f446723b89ae55a</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>-1398662515</payload_hash>
+<remote_update_set display_value="Lab 2.2 Report Source idBT">da2078c3cceda5107f446723b89ae57e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-17 12:51:45</sys_created_on>
+<sys_id>962078c3cceda5107f446723b89ae580</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186ef9a1d1b0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-17 12:51:45</sys_updated_on>
+<table>u_appr_chg</table>
+<target_name>Approval Change Req</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>139e24838beda51079c34cb183d65c61</update_guid>
+<update_guid_history>139e24838beda51079c34cb183d65c61:-1398662515</update_guid_history>
+<update_set display_value=""/>
+<view>RPTdb9e6c43cceda5107f446723b89ae596</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_source_27bea483cceda5107f446723b89ae572</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source"><sys_report_source action="INSERT_OR_UPDATE"><description>Report to show Approved RFC</description><display>RFC Approvals (Approval Change Req)</display><filter table="u_appr_chg">chg_approval=approved<item display_value="approved" endquery="false" field="chg_approval" goto="false" newquery="false" operator="=" or="false" value="approved"/></filter><name>RFC Approvals</name><sys_class_name>sys_report_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:46:28</sys_created_on><sys_id>27bea483cceda5107f446723b89ae572</sys_id><sys_mod_count>0</sys_mod_count><sys_name>RFC Approvals (Approval Change Req)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_source_27bea483cceda5107f446723b89ae572</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:46:28</sys_updated_on><table>u_appr_chg</table></sys_report_source></record_update>]]></payload>
+<payload_hash>-1089161513</payload_hash>
+<remote_update_set display_value="Lab 2.2 Report Source idBT">da2078c3cceda5107f446723b89ae57e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-17 12:51:44</sys_created_on>
+<sys_id>9a2078c3cceda5107f446723b89ae57f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186ef9b77f90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-17 12:51:44</sys_updated_on>
+<table>u_appr_chg</table>
+<target_name>RFC Approvals (Approval Change Req)</target_name>
+<type>Report Source</type>
+<update_domain>global</update_domain>
+<update_guid>49fe6c43b0eda510fd9dd8ec730efca5</update_guid>
+<update_guid_history>49fe6c43b0eda510fd9dd8ec730efca5:-1089161513</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_list_u_appr_chg_RPTc5cf6c43cceda5107f446723b89ae5ac</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="u_appr_chg" version="2" view="RPTc5cf6c43cceda5107f446723b89ae5ac"><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_approval_column</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>1dcf64c3cceda5107f446723b89ae599</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_approval_journal_column</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>15cf64c3cceda5107f446723b89ae59a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_approval_source</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>95cf64c3cceda5107f446723b89ae59a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_approver</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>19cf64c3cceda5107f446723b89ae59a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_comments</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>99cf64c3cceda5107f446723b89ae59a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_document_id</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>5</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>1dcf64c3cceda5107f446723b89ae59a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_due_date</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>6</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>9dcf64c3cceda5107f446723b89ae59a</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_expected_start</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>7</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>11cf64c3cceda5107f446723b89ae59b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_group</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>8</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>91cf64c3cceda5107f446723b89ae59b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>apprvl_iteration</element><list_id display_value="u_appr_chg" element="NULL" name="u_appr_chg" parent="NULL" relationship="NULL" sys_domain="global" view="9dcf64c3cceda5107f446723b89ae596">95cf64c3cceda5107f446723b89ae598</list_id><max_value>false</max_value><min_value>false</min_value><position>9</position><sum>false</sum><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>15cf64c3cceda5107f446723b89ae59b</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>u_appr_chg</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>95cf64c3cceda5107f446723b89ae598</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_appr_chg</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_list_u_appr_chg_RPTc5cf6c43cceda5107f446723b89ae5ac</sys_update_name><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on><sys_user/><view display_value="Rptc5cf6c43cceda5107f446723b89ae5ac" name="RPTc5cf6c43cceda5107f446723b89ae5ac">9dcf64c3cceda5107f446723b89ae596</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+<payload_hash>1706460680</payload_hash>
+<remote_update_set display_value="Lab 2.2 Report Source idBT">da2078c3cceda5107f446723b89ae57e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-17 12:51:44</sys_created_on>
+<sys_id>d22078c3cceda5107f446723b89ae580</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186ef9ebaa20000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-17 12:51:44</sys_updated_on>
+<table>u_appr_chg</table>
+<target_name>Approval Change Req</target_name>
+<type>List Layout</type>
+<update_domain>global</update_domain>
+<update_guid>15cf64c3d0eda51040f7abf96d9ce49d</update_guid>
+<update_guid_history>15cf64c3d0eda51040f7abf96d9ce49d:1706460680</update_guid_history>
+<update_set display_value=""/>
+<view>RPTc5cf6c43cceda5107f446723b89ae5ac</view>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_db9e6c43cceda5107f446723b89ae596</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report"><sys_report action="INSERT_OR_UPDATE"><additional_groupby/><aggregate>COUNT</aggregate><aggregation_source>no_override</aggregation_source><allow_data_label_overlap>false</allow_data_label_overlap><apply_alias>false</apply_alias><axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color><axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color><bar_unstack>false</bar_unstack><calendar/><chart_background_color/><chart_border_color/><chart_border_radius>0</chart_border_radius><chart_border_width>1</chart_border_width><chart_height>450</chart_height><chart_size>large</chart_size><chart_subtitle/><chart_subtitle_color/><chart_subtitle_size>14</chart_subtitle_size><chart_subtitle_style>normal</chart_subtitle_style><chart_title/><chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color><chart_title_size>16</chart_title_size><chart_title_style>normal</chart_title_style><chart_title_x_position>0</chart_title_x_position><chart_title_y_position>0</chart_title_y_position><chart_width>600</chart_width><color display_value="Default Color">de699435d7033100b4964ebfae610331</color><color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette><colors/><column/><compute_percent>aggregate</compute_percent><content/><created_by_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</created_by_user><custom_chart_size>false</custom_chart_size><custom_chart_title_position>false</custom_chart_title_position><custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config><decimal_precision>2</decimal_precision><description/><direction>minimize</direction><display_column_lines>false</display_column_lines><display_grid>false</display_grid><display_row_lines>false</display_row_lines><donut_width_percent>50</donut_width_percent><end_time/><exp_report_attrs>true</exp_report_attrs><field>chg_number</field><field_list>apprvl_approver,chg_approval,chg_number,chg_short_description,chg_risk,chg_start_date</field_list><filter table="u_appr_chg">chg_approval=approved<item display_value="approved" endquery="false" field="chg_approval" goto="false" newquery="false" operator="=" or="false" value="approved"/></filter><formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration><from/><funnel_neck_percent>30</funnel_neck_percent><gauge_autoscale>true</gauge_autoscale><group/><import_table/><interval>year</interval><is_published>false</is_published><is_real_time>false</is_real_time><is_scheduled>false</is_scheduled><legend_align_columns>true</legend_align_columns><legend_background_color/><legend_border_color/><legend_border_radius>0</legend_border_radius><legend_border_width>1</legend_border_width><legend_horizontal_alignment>center</legend_horizontal_alignment><legend_items_left_align>false</legend_items_left_align><legend_vertical_alignment>bottom</legend_vertical_alignment><list_ui_view/><location_field/><lower_limit/><map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map><map_source/><orderby_list/><other_threshold>-2</other_threshold><others>true</others><page_hdrftr/><pivot_expanded>true</pivot_expanded><report_drilldown/><report_source/><roles/><row/><sc_groupby_item_id/><sc_groupby_variable_id/><sc_stackby_item_id/><sc_stackby_variable_id/><score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color><series_name_text/><set_color>one_color</set_color><show_chart_border>false</show_chart_border><show_chart_data_label>false</show_chart_data_label><show_chart_title>report</show_chart_title><show_chart_total>false</show_chart_total><show_data_label_position_middle>false</show_data_label_position_middle><show_empty>false</show_empty><show_geographical_label>false</show_geographical_label><show_legend>true</show_legend><show_legend_border>false</show_legend_border><show_marker>false</show_marker><show_zero>false</show_zero><source_type>table</source_type><start_time/><style_config/><sumfield/><sys_class_name>sys_report</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-17 12:44:59</sys_created_on><sys_id>db9e6c43cceda5107f446723b89ae596</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Weekly RFC Approval Review (For Report Source)</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_db9e6c43cceda5107f446723b89ae596</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-17 12:44:59</sys_updated_on><table>u_appr_chg</table><title>Weekly RFC Approval Review (For Report Source)</title><title_horizontal_alignment>center</title_horizontal_alignment><title_vertical_alignment>top</title_vertical_alignment><to/><trend_field/><type>list</type><upper_limit/><use_color_heatmap>false</use_color_heatmap><use_null_in_trend>false</use_null_in_trend><user>6816f79cc0a8016401c5a33be04be441</user><x_axis_allow_decimals>true</x_axis_allow_decimals><x_axis_display_grid>false</x_axis_display_grid><x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color><x_axis_grid_dotted>false</x_axis_grid_dotted><x_axis_grid_width>1</x_axis_grid_width><x_axis_label_bold>false</x_axis_label_bold><x_axis_label_color/><x_axis_label_size>11</x_axis_label_size><x_axis_label_tilt>0</x_axis_label_tilt><x_axis_opposite>false</x_axis_opposite><x_axis_title/><x_axis_title_bold>true</x_axis_title_bold><x_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</x_axis_title_color><x_axis_title_size>12</x_axis_title_size><y_axis_allow_decimals>true</y_axis_allow_decimals><y_axis_display_grid>true</y_axis_display_grid><y_axis_from/><y_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</y_axis_grid_color><y_axis_grid_dotted>false</y_axis_grid_dotted><y_axis_grid_width>1</y_axis_grid_width><y_axis_label_bold>false</y_axis_label_bold><y_axis_label_color/><y_axis_label_size>11</y_axis_label_size><y_axis_label_tilt>0</y_axis_label_tilt><y_axis_opposite>false</y_axis_opposite><y_axis_title/><y_axis_title_bold>true</y_axis_title_bold><y_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</y_axis_title_color><y_axis_title_size>12</y_axis_title_size><y_axis_to/></sys_report></record_update>]]></payload>
+<payload_hash>1081674303</payload_hash>
+<remote_update_set display_value="Lab 2.2 Report Source idBT">da2078c3cceda5107f446723b89ae57e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-17 12:51:44</sys_created_on>
+<sys_id>d62078c3cceda5107f446723b89ae57f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186ef9a1ca30000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-17 12:51:44</sys_updated_on>
+<table>u_appr_chg</table>
+<target_name>Weekly RFC Approval Review (For Report Source)</target_name>
+<type>Report</type>
+<update_domain>global</update_domain>
+<update_guid>df9e2483d9eda5107ab404dbabf19b57</update_guid>
+<update_guid_history>df9e2483d9eda5107ab404dbabf19b57:1081674303</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_report_c5cf6c43cceda5107f446723b89ae5ac</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report"><sys_report action="INSERT_OR_UPDATE"><additional_groupby/><aggregate>COUNT</aggregate><aggregation_source>no_override</aggregation_source><allow_data_label_overlap>false</allow_data_label_overlap><apply_alias>false</apply_alias><axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color><axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color><bar_unstack>false</bar_unstack><calendar/><chart_background_color/><chart_border_color/><chart_border_radius>0</chart_border_radius><chart_border_width>1</chart_border_width><chart_height>450</chart_height><chart_size>large</chart_size><chart_subtitle/><chart_subtitle_color/><chart_subtitle_size>14</chart_subtitle_size><chart_subtitle_style>normal</chart_subtitle_style><chart_title/><chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color><chart_title_size>16</chart_title_size><chart_title_style>normal</chart_title_style><chart_title_x_position>0</chart_title_x_position><chart_title_y_position>0</chart_title_y_position><chart_width>600</chart_width><color display_value="Default Color">de699435d7033100b4964ebfae610331</color><color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette><colors/><column/><compute_percent>aggregate</compute_percent><content/><created_by_user display_value="David Loo">5137153cc611227c000bbd1bd8cd2007</created_by_user><custom_chart_size>false</custom_chart_size><custom_chart_title_position>false</custom_chart_title_position><custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config><decimal_precision>2</decimal_precision><description/><direction>minimize</direction><display_column_lines>false</display_column_lines><display_grid>false</display_grid><display_row_lines>false</display_row_lines><donut_width_percent>50</donut_width_percent><end_time/><exp_report_attrs>true</exp_report_attrs><field>chg_number</field><field_list>apprvl_approval_column,apprvl_approval_journal_column,apprvl_approval_source,apprvl_approver,apprvl_comments,apprvl_document_id,apprvl_due_date,apprvl_expected_start,apprvl_group,apprvl_iteration</field_list><filter table="u_appr_chg">apprvl_approverDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="apprvl_approver" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/></filter><formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration><from/><funnel_neck_percent>30</funnel_neck_percent><gauge_autoscale>true</gauge_autoscale><group/><import_table/><interval>year</interval><is_published>false</is_published><is_real_time>false</is_real_time><is_scheduled>false</is_scheduled><legend_align_columns>true</legend_align_columns><legend_background_color/><legend_border_color/><legend_border_radius>0</legend_border_radius><legend_border_width>1</legend_border_width><legend_horizontal_alignment>center</legend_horizontal_alignment><legend_items_left_align>false</legend_items_left_align><legend_vertical_alignment>bottom</legend_vertical_alignment><list_ui_view/><location_field/><lower_limit/><map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map><map_source/><orderby_list/><other_threshold>-2</other_threshold><others>true</others><page_hdrftr/><pivot_expanded>true</pivot_expanded><report_drilldown/><report_source display_value="RFC Approvals (Approval Change Req)">27bea483cceda5107f446723b89ae572</report_source><roles/><row/><sc_groupby_item_id/><sc_groupby_variable_id/><sc_stackby_item_id/><sc_stackby_variable_id/><score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color><series_name_text/><set_color>one_color</set_color><show_chart_border>false</show_chart_border><show_chart_data_label>false</show_chart_data_label><show_chart_title>report</show_chart_title><show_chart_total>false</show_chart_total><show_data_label_position_middle>false</show_data_label_position_middle><show_empty>false</show_empty><show_geographical_label>false</show_geographical_label><show_legend>true</show_legend><show_legend_border>false</show_legend_border><show_marker>false</show_marker><show_zero>false</show_zero><source_type>source</source_type><start_time/><style_config/><sumfield/><sys_class_name>sys_report</sys_class_name><sys_created_by>david.loo</sys_created_by><sys_created_on>2023-03-17 12:50:02</sys_created_on><sys_id>c5cf6c43cceda5107f446723b89ae5ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>My RFC Approvals</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_report_c5cf6c43cceda5107f446723b89ae5ac</sys_update_name><sys_updated_by>david.loo</sys_updated_by><sys_updated_on>2023-03-17 12:50:02</sys_updated_on><table>u_appr_chg</table><title>My RFC Approvals</title><title_horizontal_alignment>center</title_horizontal_alignment><title_vertical_alignment>top</title_vertical_alignment><to/><trend_field/><type>list</type><upper_limit/><use_color_heatmap>false</use_color_heatmap><use_null_in_trend>false</use_null_in_trend><user>5137153cc611227c000bbd1bd8cd2007</user><x_axis_allow_decimals>true</x_axis_allow_decimals><x_axis_display_grid>false</x_axis_display_grid><x_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</x_axis_grid_color><x_axis_grid_dotted>false</x_axis_grid_dotted><x_axis_grid_width>1</x_axis_grid_width><x_axis_label_bold>false</x_axis_label_bold><x_axis_label_color/><x_axis_label_size>11</x_axis_label_size><x_axis_label_tilt>0</x_axis_label_tilt><x_axis_opposite>false</x_axis_opposite><x_axis_title/><x_axis_title_bold>true</x_axis_title_bold><x_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</x_axis_title_color><x_axis_title_size>12</x_axis_title_size><y_axis_allow_decimals>true</y_axis_allow_decimals><y_axis_display_grid>true</y_axis_display_grid><y_axis_from/><y_axis_grid_color display_value="LightGrey">65b30308a9fe3dba01ebaa03e87e7cd3</y_axis_grid_color><y_axis_grid_dotted>false</y_axis_grid_dotted><y_axis_grid_width>1</y_axis_grid_width><y_axis_label_bold>false</y_axis_label_bold><y_axis_label_color/><y_axis_label_size>11</y_axis_label_size><y_axis_label_tilt>0</y_axis_label_tilt><y_axis_opposite>false</y_axis_opposite><y_axis_title/><y_axis_title_bold>true</y_axis_title_bold><y_axis_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</y_axis_title_color><y_axis_title_size>12</y_axis_title_size><y_axis_to/></sys_report></record_update>]]></payload>
+<payload_hash>220685404</payload_hash>
+<remote_update_set display_value="Lab 2.2 Report Source idBT">da2078c3cceda5107f446723b89ae57e</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-17 12:51:44</sys_created_on>
+<sys_id>de2078c3cceda5107f446723b89ae57e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186ef9eba2a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-17 12:51:44</sys_updated_on>
+<table>u_appr_chg</table>
+<target_name>My RFC Approvals</target_name>
+<type>Report</type>
+<update_domain>global</update_domain>
+<update_guid>11cf64c3efeda510af41c819ac5f0e95</update_guid>
+<update_guid_history>11cf64c3efeda510af41c819ac5f0e95:220685404</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
