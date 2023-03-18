@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2023-03-18 11:33:47">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Scripts - Background and Fix script</description>
+<inserted/>
+<name>Lab 3.2 Scripts idBT</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>0362299fcc6de5107f446723b89ae569</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-18 11:33:46</sys_created_on>
+<sys_id>f1e7e5d3ccade5107f446723b89ae5c1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-18 11:33:46</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_91102517c0a8016400453c471f9917aa</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="91102517c0a8016400453c471f9917aa" sys_domain="global" table="cmdb_ci_computer" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.begin_split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>6b8369dfcc6de5107f446723b89ae5fc</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type>.begin_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>238369dfcc6de5107f446723b89ae5fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>asset_tag</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>a38369dfcc6de5107f446723b89ae5fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>manufacturer</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>278369dfcc6de5107f446723b89ae5fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>asset</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>a78369dfcc6de5107f446723b89ae5fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>install_date</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>2b8369dfcc6de5107f446723b89ae5fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>ab8369dfcc6de5107f446723b89ae5fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>company</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>2f8369dfcc6de5107f446723b89ae5fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>serial_number</element><position>8</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>af8369dfcc6de5107f446723b89ae5fd</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>model_id</element><position>9</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>238369dfcc6de5107f446723b89ae5fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>10</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>a38369dfcc6de5107f446723b89ae5fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_refresh_date</element><position>11</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>278369dfcc6de5107f446723b89ae5fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>12</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:46</sys_created_on><sys_id>a78369dfcc6de5107f446723b89ae5fe</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="cmdb_ci_computer" sys_domain="global" view="Default view">91102517c0a8016400453c471f9917aa</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:46</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>cmdb_ci_computer</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2004-08-24 13:50:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>91102517c0a8016400453c471f9917aa</sys_id><sys_mod_count>2</sys_mod_count><sys_name>cmdb_ci_computer</sys_name><sys_overrides/><sys_package display_value="System (apps/system_ui)" source="apps/system_ui">bc5bb403642230107f448300be91cfe3</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_91102517c0a8016400453c471f9917aa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2012-03-01 00:05:45</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<payload_hash>1519242888</payload_hash>
+<remote_update_set display_value="Lab 3.2 Scripts idBT">f1e7e5d3ccade5107f446723b89ae5c1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-18 11:33:46</sys_created_on>
+<sys_id>75e7e5d3ccade5107f446723b89ae5c2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186f46ddf030000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-18 11:33:46</sys_updated_on>
+<table>cmdb_ci_computer</table>
+<target_name>Computer</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_guid>6f83a9df186de510947b183988970a0c</update_guid>
+<update_guid_history>6f83a9df186de510947b183988970a0c:1519242888,9a8329df0a6de510dabfd329a7b0d913:-974378095</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_fix_78d5a953ccade5107f446723b89ae54b</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;before&gt;false&lt;/before&gt;&lt;description&gt;Add a refresh date to CMDB records&lt;/description&gt;&lt;name&gt;Populate Refresh Date&lt;/name&gt;&lt;record_for_rollback&gt;false&lt;/record_for_rollback&gt;&lt;script&gt;&lt;![CDATA[//u_refresh_dateISEMPTY
+var yearsToAdd = 1;
+
+var rec = new GlideRecord('cmdb_ci_computer');
+rec.addEncodedQuery('u_refresh_dateISEMPTY');
+rec.setLimit(10);
+rec.query();
+while (rec.next()) {
+    var installDate = new GlideDateTime(rec.install_date);
+
+    if (rec.manufacturer.getDisplayValue() == 'Apple') {
+        yearsToAdd = 2;
+    } else if (rec.manufacturer.getDisplayValue() == 'Lenovo') {
+        yearsToAdd = 3;
+    } else {
+        yearsToAdd = 4;
+    }
+
+    installDate.addYears(yearsToAdd);
+    rec.u_refresh_date = installDate.getDisplayValue();''
+//    rec.update();
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2023-03-18 11:26:47&lt;/sys_created_on&gt;&lt;sys_id&gt;78d5a953ccade5107f446723b89ae54b&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Populate Refresh Date&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_78d5a953ccade5107f446723b89ae54b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2023-03-18 11:32:59&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+<payload_hash>522637668</payload_hash>
+<remote_update_set display_value="Lab 3.2 Scripts idBT">f1e7e5d3ccade5107f446723b89ae5c1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-18 11:33:46</sys_created_on>
+<sys_id>b1e7e5d3ccade5107f446723b89ae5c2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186f47e8b490000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-18 11:33:46</sys_updated_on>
+<table/>
+<target_name>Populate Refresh Date</target_name>
+<type>Fix Script</type>
+<update_domain>global</update_domain>
+<update_guid>9eb769938eade5109fe015c08f00a48f</update_guid>
+<update_guid_history>9eb769938eade5109fe015c08f00a48f:522637668,7127e513edade51041bba44966f9c174:1838175716,2b466ddffe6de510faa73cb8dee1d9a2:-1256209474</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_cmdb_ci_computer_u_refresh_date</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="u_refresh_date" table="cmdb_ci_computer"><active>true</active><array>false</array><array_denormalized>false</array_denormalized><attributes>edge_encryption_enabled=true</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>Refresh Date</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>u_refresh_date</element><element_reference>false</element_reference><foreign_database/><function_definition/><function_field>false</function_field><internal_type display_value="">glide_date_time</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>cmdb_ci_computer</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><sizeclass/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:41</sys_created_on><sys_id>928329dfcc6de5107f446723b89ae51e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Refresh Date</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_dictionary_cmdb_ci_computer_u_refresh_date</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:41</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+<payload_hash>-743357017</payload_hash>
+<remote_update_set display_value="Lab 3.2 Scripts idBT">f1e7e5d3ccade5107f446723b89ae5c1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-18 11:33:46</sys_created_on>
+<sys_id>f5e7e5d3ccade5107f446723b89ae5c1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186f46dde9a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-18 11:33:46</sys_updated_on>
+<table>cmdb_ci_computer</table>
+<target_name>Computer.Refresh Date</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>678369df3f6de510de3ed788df3688fa</update_guid>
+<update_guid_history>678369df3f6de510de3ed788df3688fa:-743357017</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_cmdb_ci_computer_u_refresh_date_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_refresh_date" label="Refresh Date" language="en" table="cmdb_ci_computer"><sys_documentation action="INSERT_OR_UPDATE"><element>u_refresh_date</element><help/><hint/><label>Refresh Date</label><language>en</language><name>cmdb_ci_computer</name><plural>Refresh Dates</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-03-18 11:14:42</sys_created_on><sys_id>928329dfcc6de5107f446723b89ae557</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Refresh Date</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_cmdb_ci_computer_u_refresh_date_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-03-18 11:14:42</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-460602763</payload_hash>
+<remote_update_set display_value="Lab 3.2 Scripts idBT">f1e7e5d3ccade5107f446723b89ae5c1</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2023-03-18 11:33:46</sys_created_on>
+<sys_id>fde7e5d3ccade5107f446723b89ae5c1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>186f46ddead0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2023-03-18 11:33:46</sys_updated_on>
+<table>cmdb_ci_computer</table>
+<target_name>Computer.Refresh Date</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>2f8369df336de51075e4e15cf0e398fb</update_guid>
+<update_guid_history>2f8369df336de51075e4e15cf0e398fb:-460602763</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
